@@ -1,0 +1,16 @@
+{
+  "name": "sales-analytics-crm",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "install:all": "npm install && npm --prefix server install && npm --prefix client install",
+    "dev": "concurrently -n api,web -c blue,green \"npm --prefix server run dev\" \"npm --prefix client run dev\"",
+    "build": "npm --prefix client run build",
+    "start": "npm --prefix server start",
+    "test": "npm --prefix server test",
+    "samples": "npm --prefix server run make-samples",
+    "backup": "npm --prefix server run backup",
+    "restore": "npm --prefix server run restore --"
+  },
+  "devDependencies": { "concurrently": "^9.0.1" }
+}

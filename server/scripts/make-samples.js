@@ -1,0 +1,10 @@
+import fs from 'node:fs';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+import { demoWorkbookBuffer, demoCsvBuffer, templateWorkbookBuffer, makeDemoRows } from '../src/lib/demoData.js';
+const dir = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../../sample-data');
+fs.mkdirSync(dir, { recursive: true });
+fs.writeFileSync(path.join(dir, 'demo-sales.xlsx'), demoWorkbookBuffer());
+fs.writeFileSync(path.join(dir, 'demo-sales.csv'), demoCsvBuffer());
+fs.writeFileSync(path.join(dir, 'sales-template.xlsx'), templateWorkbookBuffer());
+console.log(`Wrote sample files to ${dir} (${makeDemoRows().length} demo rows)`);

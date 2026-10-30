@@ -1,0 +1,19 @@
+services:
+  - type: web
+    name: sales-crm
+    runtime: node
+    plan: free
+    buildCommand: npm install && npm --prefix server install && npm --prefix client install && npm run build
+    startCommand: npm start
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: MONGODB_URI
+        sync: false
+      - key: AUTH_USERNAME
+        sync: false
+      - key: AUTH_PASSWORD
+        sync: false
+      - key: AUTH_SECRET
+        generateValue: true

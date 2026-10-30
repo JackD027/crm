@@ -1,0 +1,24 @@
+{
+  "name": "sales-crm-server",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "test": "node --test",
+    "make-samples": "node scripts/make-samples.js",
+    "backup": "node scripts/backup.js",
+    "restore": "node scripts/restore.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.5.0",
+    "multer": "^1.4.5-lts.1",
+    "papaparse": "^5.4.1",
+    "sales-analytics-crm": "file:..",
+    "xlsx": "^0.18.5"
+  }
+}

@@ -1,0 +1,85 @@
+Bill Date,Bill No,Party Name,Party Code,Area,City,Item Name,Item Code,Category,Qty,Rate,Discount,Net Amount,Sales Rep
+08/04/2026,INV-2026-0001,Jain Traders,JT04,Sadar Bazar,Delhi,Shampoo 180ml,SHP180,,63,155,,9765,Amit
+08/04/2026,INV-2026-0001,Jain Traders,JT04,Sadar Bazar,Delhi,Namkeen Mix 400g,NMK400,Snacks,38,95,,3610,Amit
+08/04/2026,INV-2026-0001,Jain Traders,JT04,Sadar Bazar,Delhi,Bath Soap 4-pack,SOAP4,Personal Care,42,140,,5880,Amit
+09/04/2026,INV-2026-0002,Sharma General Store,SGS01,Karol Bagh,Delhi,Basmati Rice 5kg,RICE5,Staples,6,520,,3120,Rohit
+10/04/2026,INV-2026-0003,New Bharat Provision,NBP03,Sadar Bazar,Delhi,Shampoo 180ml,SHP180,,29,155,225,4270,Amit
+14/04/2026,INV-2026-0004,Krishna Stores,KS11,Sector 62,Noida,Refined Oil 1L,OIL1,Staples,29,165,,4785,Vikas
+17/04/2026,INV-2026-0005,Singh Dairy & General,SD08,Lajpat Nagar,Delhi,Cola 600ml,COLA600,Beverages,67,38,,2546,Neha
+21/04/2026,INV-2026-0006,Kapoor Mini Mart,KM07,Lajpat Nagar,Delhi,Namkeen Mix 400g,NMK400,Snacks,35,95,,3325,Neha
+22/04/2026,INV-2026-0007,New Bharat Provision,NBP03,Sadar Bazar,Delhi,Cola 600ml,COLA600,Beverages,40,38,,1520,Amit
+22/04/2026,INV-2026-0007,New Bharat Provision,NBP03,Sadar Bazar,Delhi,Namkeen Mix 400g,NMK400,Snacks,18,95,86,1624,Amit
+26/04/2026,INV-2026-0008,Pooja General Store,PGS12,Sector 62,Noida,Cola 600ml,COLA600,Beverages,37,38,,1406,Vikas
+26/04/2026,INV-2026-0009,Raj Super Bazaar,RSB09,Sector 18,Noida,Potato Chips 50g,CHP50,Snacks,125,20,125,2375,Vikas
+26/04/2026,INV-2026-0009,Raj Super Bazaar,RSB09,Sector 18,Noida,Bath Soap 4-pack,SOAP4,Personal Care,50,140,,7000,Vikas
+02/05/2026,INV-2026-0010,New Bharat Provision,NBP03,Sadar Bazar,Delhi,Bath Soap 4-pack,SOAP4,Personal Care,54,140,,7560,Amit
+05/05/2026,INV-2026-0011,Pooja General Store,PGS12,Sector 62,Noida,Shampoo 180ml,SHP180,,10,155,,1550,Vikas
+08/05/2026,INV-2026-0012,Jain Traders,JT04,Sadar Bazar,Delhi,Bath Soap 4-pack,SOAP4,Personal Care,59,140,413,7847,Amit
+11/05/2026,INV-2026-0013,Krishna Stores,KS11,Sector 62,Noida,Namkeen Mix 400g,NMK400,Snacks,14,95,,1330,Vikas
+11/05/2026,INV-2026-0013,Krishna Stores,KS11,Sector 62,Noida,Cola 600ml,COLA600,Beverages,32,38,,1216,Vikas
+11/05/2026,INV-2026-0014,Raj Super Bazaar,RSB09,Sector 18,Noida,Bath Soap 4-pack,SOAP4,Personal Care,53,140,,7420,Vikas
+17/05/2026,INV-2026-0015,Raj Super Bazaar,RSB09,Sector 18,Noida,Mango Drink 200ml,MNG200,Beverages,132,18,119,2257,Vikas
+17/05/2026,INV-2026-0015,Raj Super Bazaar,RSB09,Sector 18,Noida,Bath Soap 4-pack,SOAP4,Personal Care,31,140,217,4123,Vikas
+23/05/2026,INV-2026-0016,Kapoor Mini Mart,KM07,Lajpat Nagar,Delhi,Basmati Rice 5kg,RICE5,Staples,15,520,,7800,Neha
+23/05/2026,INV-2026-0016,Kapoor Mini Mart,KM07,Lajpat Nagar,Delhi,Cola 600ml,COLA600,Beverages,71,38,,2698,Neha
+24/05/2026,INV-2026-0017,New Bharat Provision,NBP03,Sadar Bazar,Delhi,Shampoo 180ml,SHP180,,30,155,,4650,Amit
+24/05/2026,INV-2026-0017,New Bharat Provision,NBP03,Sadar Bazar,Delhi,Mango Drink 200ml,MNG200,Beverages,165,18,,2970,Amit
+25/05/2026,INV-2026-0018,Gupta Kirana,GK02,Karol Bagh,Delhi,Mango Drink 200ml,MNG200,Beverages,85,18,,1530,Rohit
+25/05/2026,INV-2026-0018,Gupta Kirana,GK02,Karol Bagh,Delhi,Namkeen Mix 400g,NMK400,Snacks,14,95,,1330,Rohit
+25/05/2026,INV-2026-0019,Jain Traders,JT04,Sadar Bazar,Delhi,Namkeen Mix 400g,NMK400,Snacks,48,95,228,4332,Amit
+26/05/2026,INV-2026-0020,Verma Supermart,VS06,Lajpat Nagar,Delhi,Mango Drink 200ml,MNG200,Beverages,115,18,,2070,Neha
+05/06/2026,INV-2026-0021,Pooja General Store,PGS12,Sector 62,Noida,Packaged Water 1L,PW1L,Beverages,69,15,,1035,Vikas
+05/06/2026,INV-2026-0021,Pooja General Store,PGS12,Sector 62,Noida,Cola 600ml,COLA600,Beverages,31,38,,1178,Vikas
+11/06/2026,INV-2026-0022,Raj Super Bazaar,RSB09,Sector 18,Noida,Namkeen Mix 400g,NMK400,Snacks,27,95,,2565,Vikas
+12/06/2026,INV-2026-0023,Jain Traders,JT04,Sadar Bazar,Delhi,Mango Drink 200ml,MNG200,Beverages,221,18,199,3779,Amit
+12/06/2026,INV-2026-0023,Jain Traders,JT04,Sadar Bazar,Delhi,Packaged Water 1L,PW1L,Beverages,221,15,166,3149,Amit
+14/06/2026,INV-2026-0024,New Bharat Provision,NBP03,Sadar Bazar,Delhi,Basmati Rice 5kg,RICE5,Staples,20,520,,10400,Amit
+14/06/2026,INV-2026-0025,Raj Super Bazaar,RSB09,Sector 18,Noida,Potato Chips 50g,CHP50,Snacks,157,20,,3140,Vikas
+18/06/2026,INV-2026-0026,Jain Traders,JT04,Sadar Bazar,Delhi,Cola 600ml,COLA600,Beverages,132,38,251,4765,Amit
+18/06/2026,INV-2026-0027,Verma Supermart,VS06,Lajpat Nagar,Delhi,Mango Drink 200ml,MNG200,Beverages,94,18,,1692,Neha
+24/06/2026,INV-2026-0028,New Bharat Provision,NBP03,Sadar Bazar,Delhi,Mango Drink 200ml,MNG200,Beverages,90,18,,1620,Amit
+24/06/2026,INV-2026-0028,New Bharat Provision,NBP03,Sadar Bazar,Delhi,Namkeen Mix 400g,NMK400,Snacks,50,95,238,4512,Amit
+25/06/2026,INV-2026-0029,Singh Dairy & General,SD08,Lajpat Nagar,Delhi,Basmati Rice 5kg,RICE5,Staples,4,520,,2080,Neha
+02/07/2026,INV-2026-0030,Sharma General Store,SGS01,Karol Bagh,Delhi,Packaged Water 1L,PW1L,Beverages,71,15,,1065,Rohit
+02/07/2026,INV-2026-0031,Verma Supermart,VS06,Lajpat Nagar,Delhi,Packaged Water 1L,PW1L,Beverages,106,15,,1590,Neha
+03/07/2026,INV-2026-0032,Gupta Kirana,GK02,Karol Bagh,Delhi,Cola 600ml,COLA600,Beverages,58,38,,2204,Rohit
+05/07/2026,INV-2026-0033,Jain Traders,JT04,Sadar Bazar,Delhi,Basmati Rice 5kg,RICE5,Staples,22,520,572,10868,Amit
+13/07/2026,INV-2026-0034,New Bharat Provision,NBP03,Sadar Bazar,Delhi,Atta 10kg,ATTA10,Staples,19,430,,8170,Amit
+13/07/2026,INV-2026-0034,New Bharat Provision,NBP03,Sadar Bazar,Delhi,Namkeen Mix 400g,NMK400,Snacks,25,95,,2375,Amit
+14/07/2026,INV-2026-0035,New Bharat Provision,NBP03,Sadar Bazar,Delhi,Potato Chips 50g,CHP50,Snacks,153,20,153,2907,Amit
+14/07/2026,INV-2026-0036,Pooja General Store,PGS12,Sector 62,Noida,Refined Oil 1L,OIL1,Staples,31,165,,5115,Vikas
+14/07/2026,INV-2026-0036,Pooja General Store,PGS12,Sector 62,Noida,Namkeen Mix 400g,NMK400,Snacks,23,95,,2185,Vikas
+18/07/2026,INV-2026-0037,Raj Super Bazaar,RSB09,Sector 18,Noida,Refined Oil 1L,OIL1,Staples,36,165,297,5643,Vikas
+23/07/2026,INV-2026-0038,Krishna Stores,KS11,Sector 62,Noida,Mango Drink 200ml,MNG200,Beverages,119,18,,2142,Vikas
+24/07/2026,INV-2026-0039,Raj Super Bazaar,RSB09,Sector 18,Noida,Mango Drink 200ml,MNG200,Beverages,234,18,211,4001,Vikas
+25/07/2026,INV-2026-0040,Mahalaxmi Stores,MS05,Sadar Bazar,Delhi,Packaged Water 1L,PW1L,Beverages,166,15,,2490,Amit
+25/07/2026,INV-2026-0041,Singh Dairy & General,SD08,Lajpat Nagar,Delhi,Refined Oil 1L,OIL1,Staples,31,165,,5115,Neha
+26/07/2026,INV-2026-0042,Jain Traders,JT04,Sadar Bazar,Delhi,Packaged Water 1L,PW1L,Beverages,256,15,,3840,Amit
+04/08/2026,INV-2026-0043,New Bharat Provision,NBP03,Sadar Bazar,Delhi,Cola 600ml,COLA600,Beverages,174,38,,6612,Amit
+05/08/2026,INV-2026-0044,New Bharat Provision,NBP03,Sadar Bazar,Delhi,Mango Drink 200ml,MNG200,Beverages,121,18,109,2069,Amit
+06/08/2026,INV-2026-0045,Mahalaxmi Stores,MS05,Sadar Bazar,Delhi,Mango Drink 200ml,MNG200,Beverages,96,18,,1728,Amit
+10/08/2026,INV-2026-0046,Sharma General Store,SGS01,Karol Bagh,Delhi,Shampoo 180ml,SHP180,,29,155,,4495,Rohit
+12/08/2026,INV-2026-0047,Jain Traders,JT04,Sadar Bazar,Delhi,Mango Drink 200ml,MNG200,Beverages,273,18,246,4668,Amit
+14/08/2026,INV-2026-0048,Gupta Kirana,GK02,Karol Bagh,Delhi,Shampoo 180ml,SHP180,,23,155,,3565,Rohit
+14/08/2026,INV-2026-0049,Singh Dairy & General,SD08,Lajpat Nagar,Delhi,Mango Drink 200ml,MNG200,Beverages,145,18,,2610,Neha
+14/08/2026,INV-2026-0049,Singh Dairy & General,SD08,Lajpat Nagar,Delhi,Potato Chips 50g,CHP50,Snacks,73,20,,1460,Neha
+16/08/2026,INV-2026-0050,Jain Traders,JT04,Sadar Bazar,Delhi,Cola 600ml,COLA600,Beverages,217,38,,8246,Amit
+16/08/2026,INV-2026-0050,Jain Traders,JT04,Sadar Bazar,Delhi,Bath Soap 4-pack,SOAP4,Personal Care,76,140,532,10108,Amit
+17/08/2026,INV-2026-0051,Raj Super Bazaar,RSB09,Sector 18,Noida,Cola 600ml,COLA600,Beverages,71,38,135,2563,Vikas
+24/08/2026,INV-2026-0052,Anand Retail,AR10,Sector 18,Noida,Refined Oil 1L,OIL1,Staples,39,165,,6435,Vikas
+24/08/2026,INV-2026-0053,Raj Super Bazaar,RSB09,Sector 18,Noida,Packaged Water 1L,PW1L,Beverages,120,15,,1800,Vikas
+02/09/2026,INV-2026-0054,Mahalaxmi Stores,MS05,Sadar Bazar,Delhi,Namkeen Mix 400g,NMK400,Snacks,36,95,,3420,Amit
+05/09/2026,INV-2026-0055,Singh Dairy & General,SD08,Lajpat Nagar,Delhi,Packaged Water 1L,PW1L,Beverages,122,15,,1830,Neha
+06/09/2026,INV-2026-0056,Jain Traders,JT04,Sadar Bazar,Delhi,Refined Oil 1L,OIL1,Staples,53,165,,8745,Amit
+10/09/2026,INV-2026-0057,Raj Super Bazaar,RSB09,Sector 18,Noida,Basmati Rice 5kg,RICE5,Staples,8,520,208,3952,Vikas
+10/09/2026,INV-2026-0058,Verma Supermart,VS06,Lajpat Nagar,Delhi,Mango Drink 200ml,MNG200,Beverages,169,18,,3042,Neha
+12/09/2026,INV-2026-0059,New Bharat Provision,NBP03,Sadar Bazar,Delhi,Mango Drink 200ml,MNG200,Beverages,159,18,,2862,Amit
+17/09/2026,INV-2026-0060,Jain Traders,JT04,Sadar Bazar,Delhi,Mango Drink 200ml,MNG200,Beverages,453,18,,8154,Amit
+19/09/2026,INV-2026-0061,Raj Super Bazaar,RSB09,Sector 18,Noida,Cola 600ml,COLA600,Beverages,127,38,241,4585,Vikas
+23/09/2026,INV-2026-0062,Anand Retail,AR10,Sector 18,Noida,Mango Drink 200ml,MNG200,Beverages,83,18,,1494,Vikas
+23/09/2026,INV-2026-0062,Anand Retail,AR10,Sector 18,Noida,Cola 600ml,COLA600,Beverages,64,38,,2432,Vikas
+23/09/2026,INV-2026-0063,Pooja General Store,PGS12,Sector 62,Noida,Bath Soap 4-pack,SOAP4,Personal Care,38,140,,5320,Vikas
+23/09/2026,INV-2026-0063,Pooja General Store,PGS12,Sector 62,Noida,Cola 600ml,COLA600,Beverages,83,38,,3154,Vikas
+24/09/2026,INV-2026-0064,New Bharat Provision,NBP03,Sadar Bazar,Delhi,Packaged Water 1L,PW1L,Beverages,189,15,142,2693,Amit
+24/09/2026,INV-2026-0064,New Bharat Provision,NBP03,Sadar Bazar,Delhi,Cola 600ml,COLA600,Beverages,196,38,372,7076,Amit
+22/08/2026,CN-2026-0001,Jain Traders,JT04,Sadar Bazar,Delhi,Cola 600ml,COLA600,Beverages,-12,38,,-456,Amit
