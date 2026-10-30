@@ -129,4 +129,5 @@ sales-crm/
                            Shops, Areas, Products, Insights, Reports, History, Settings)
 ```
 #   c r m  
+ #   c r m  
  
