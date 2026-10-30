@@ -3,8 +3,8 @@ services:
     name: sales-crm
     runtime: node
     plan: free
-    buildCommand: npm install && npm --prefix server install && npm --prefix client install && npm run build
-    startCommand: npm start
+    buildCommand: npm ci --prefix server && npm ci --prefix client && npm --prefix client run build
+    startCommand: npm --prefix server start
     healthCheckPath: /api/health
     envVars:
       - key: NODE_ENV
